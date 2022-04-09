@@ -1,3 +1,9 @@
+/*
+Newton's Method 
+2022/04/10
+asliddinxanov
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #define N 30 //ニュートン法の試行回数
